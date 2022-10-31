@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T16:03:59.324Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" version="20.5.1" etag="K-y876aPlOv4TZ3qOz_V" type="github"><diagram id="M4u4kO3JLNMXwljZ7qPb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-31T16:08:09.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="4sQfp5x8WIh4D4cklxvt" version="20.5.1" type="github">
+  <diagram id="M4u4kO3JLNMXwljZ7qPb" name="第 1 页">
+    <mxGraphModel dx="696" dy="552" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Iyk0Zb1A4WTZEfQu4X--1" value="执法人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Iyk0Zb1A4WTZEfQu4X--3" value="无人机" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Iyk0Zb1A4WTZEfQu4X--5" value="无人机App" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Iyk0Zb1A4WTZEfQu4X--6" value="违法人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Iyk0Zb1A4WTZEfQu4X--7" value="相关工作人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Iyk0Zb1A4WTZEfQu4X--9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1Iyk0Zb1A4WTZEfQu4X--1" target="1Iyk0Zb1A4WTZEfQu4X--8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="370" as="sourcePoint" />
+            <mxPoint x="380" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Iyk0Zb1A4WTZEfQu4X--8" value="控制设备" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Iyk0Zb1A4WTZEfQu4X--12" value="操控无人机" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="214" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Iyk0Zb1A4WTZEfQu4X--13" value="使用无人机App" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="223" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
